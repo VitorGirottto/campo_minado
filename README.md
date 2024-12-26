@@ -22,19 +22,19 @@ Este projeto é uma implementação simples do jogo **Campo Minado** usando PHP.
 1. Clone o repositório para sua máquina:
 
     ```bash
-    git clone https://github.com/seu-usuario/campo-minado.git
+    git clone https://github.com/VitorGirottto/campo_minado.git
     ```
 
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd campo-minado
+    cd campo_minado
     ```
 
 3. Execute o script PHP:
 
     ```bash
-    php jogo.php
+    php campo_minado.php
     ```
 
     **Nota**: Certifique-se de ter o PHP instalado em sua máquina. Caso não tenha, você pode [baixar o PHP aqui](https://www.php.net/downloads.php).
